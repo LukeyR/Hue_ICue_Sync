@@ -1,0 +1,3 @@
+# Add lights to control as a line of text in this file. Comments must start with a # and ech light must have its own line
+Luke Door Side
+Luke Toilet Side
