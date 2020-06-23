@@ -1,7 +1,7 @@
 # WIP
 
 ## Intro
-This is a simple script that will cycle through RGB spectrum on some(or all) Phillips Hue lights on a network and attached corsair components compatible with ICUE.
+This is a simple script that will cycle through the RGB spectrum on some (or all) Phillips Hue lights on a network and attached corsair components compatible with ICUE.
 
 This should allow for a big RGB setup in a room where hue lights and corsair components are present.
 
