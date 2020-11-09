@@ -5,6 +5,8 @@ This is a simple script that will cycle through the RGB spectrum on some (or all
 
 This should allow for a big RGB setup in a room where hue lights and corsair components are present.
 
+Currently unable to progress further due to not having enough equiptment to experiment with more devices from Hue family.
+
 ## Dependencies
 Uses [phue](https://github.com/studioimaginaire/phue)  
 Uses [ICUE SDK](https://github.com/CorsairOfficial/cue-sdk-python)  
